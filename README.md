@@ -1,1 +1,1 @@
-# ER DIGRAM
+# ER DIAGRAM
